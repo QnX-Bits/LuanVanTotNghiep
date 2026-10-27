@@ -1,0 +1,12 @@
+symbol,first_month,last_month,n_months,n_returns,share_flagged,vol_ann,ac1_monthly,quality_counts,note
+DEPOSIT_12M,2016-02,2026-07,126,126,0.1031746032,0.002404977202,0.9750453001,real=113; ffill_step=13,
+DXG,2016-02,2026-07,126,126,0,0.4908412899,0.1286282994,real_daily_resampled=126,
+E1VFVN30,2016-02,2026-07,126,126,0,0.2027798161,0.07798138484,real_daily_resampled=126,
+GOLD_SJC,2016-02,2026-07,126,126,0.5,0.1386987986,0.2527029342,reconstructed_wb_basis=63; real_monthly=48; real_6month_anchor=8; real_4month_anchor=7,
+GOLD_SJC_RT,2016-02,2026-07,126,126,1,0.1407011862,0.2678886049,realtime_vintage=126,
+KDH,2016-02,2026-07,126,126,0,0.3203423947,-0.02369395006,real_daily_resampled=126,
+NVL,2016-02,2026-07,126,115,0.07936507937,0.5102338038,0.1563812869,real_daily_resampled=116; not_listed=10,
+RE_BASKET,2016-02,2026-07,126,126,0,0.2874148837,0.1723038183,re_basket_point_in_time=126,
+VHM,2016-02,2026-07,126,98,0.2142857143,0.3894498268,-0.05603516339,real_daily_resampled=99; not_listed=27,
+VNINDEX,2016-02,2026-07,126,126,0,0.2036374883,0.02973443679,real_daily_resampled=126,
+VN_BOND_5Y,2016-02,2026-07,126,126,0,0.0237496718,0.1117801264,bond_fund_nav=126,tỷ lệ ngày O=H=L=C: 56.3%

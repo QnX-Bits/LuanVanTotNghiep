@@ -1,0 +1,16 @@
+node_modules/
+frontend/dist/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+.temp_pipeline_runs/
+/results/v[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]-*/
+.DS_Store

@@ -1,0 +1,3 @@
+DCBF - Quỹ Đầu tư Trái phiếu DC (Dragon Capital Vietnam Bond Fund), productId 27
+Nguồn: fmarket.vn (API get-nav-history), NAV cuối tháng, thu thập qua trình duyệt ngày 2026-10-24
+Đối chiếu: bond_fund_nav_VFF.csv (VinaCapital VFF, productId 21)

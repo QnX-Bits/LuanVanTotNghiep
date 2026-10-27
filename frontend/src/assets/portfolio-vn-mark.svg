@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 68" role="img" aria-labelledby="title desc">
+  <title id="title">PortfolioVN</title>
+  <desc id="desc">PortfolioVN mark with six ledger strokes representing six asset classes.</desc>
+  <g fill="none" stroke="#0a0a0a" stroke-linecap="square">
+    <path d="M8 14h23M8 22h30M8 30h20M8 38h34M8 46h26M8 54h18" stroke-width="4"/>
+  </g>
+  <text x="58" y="48" fill="#0a0a0a" font-family="Inter,Arial,sans-serif" font-size="36" font-weight="500" letter-spacing="-1.5">Portfolio</text>
+  <text x="217" y="48" fill="#0a0a0a" font-family="Inter,Arial,sans-serif" font-size="36" font-weight="750" letter-spacing="-1.5">VN</text>
+</svg>

@@ -1,0 +1,11 @@
+{
+  "asset_panel_standardized.csv": "0f67720d48eb29717868c4fd19f40e6d8b98312b623ee7815369502ee9e445e7",
+  "forecasts_oos.csv": "75a76bba5987a87cacd669bf381f65436e8ca83badcf62394dd57e8fcd2c559b",
+  "full_backtest_9scenarios.csv": "e3cd42c0df47f92d7a6b72d22e78cb1ff24b1ac2cf823d87530ccc076da61c92",
+  "allocation_current.csv": "b7c63df65ebd9b70cb125f958ceff9eb9848cb81da376ffb8bee7b59e88cc2fd",
+  "performance_summary.csv": "fe6fd573c8cea0a150f600da3b98ed5a8da4d4c06ec152a8d5dfc660fffc91c2",
+  "holm_bonferroni_results.csv": "5344532b647d4d3c1c4593917edc0e1775cefe7522c57d1d4cc365561555414a",
+  "bl_elasticnet_vs_lightgbm.csv": "438bac3bca1e4f4627730a0bb9175111899a4d5da2d1eabbc17c1ca6dfc0dbfc",
+  "h3_comparison_pairs.csv": "889dc37e6c8e2c65f8c9a2272ce679e512a8dddcad68c7202f0977ed829e2344",
+  "sensitivity_analysis.csv": "d93d23a0a7c61945b9d619b202584425063c41ebbc6941bf90bcc7a808b2c72d"
+}

@@ -1,0 +1,4 @@
+{
+  "_ghi_chu": "Lựa chọn cố định của nghiên cứu. Biến môi trường PVN_<TÊN> ghi đè khi chạy. gold_vintage = 1 khi panel đã kéo dài về trước 08/2022 (xem docs/data_request_qc.md, bước 6).",
+  "gold_vintage": 1
+}

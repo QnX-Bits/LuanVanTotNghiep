@@ -1,0 +1,16 @@
+# Ghim phiên bản: kết quả trong data/processed/ được tạo bằng đúng các phiên bản này (Python 3.13).
+# Đổi phiên bản (đặc biệt scikit-learn / scipy) có thể làm lệch số liệu ML và Markowitz.
+pandas==3.0.5
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.1
+lightgbm==4.7.0
+# tối ưu lồi (Markowitz/BL, bước 09-16):
+cvxpy==1.9.3
+clarabel==0.11.1
+osqp==1.1.3
+# tùy chọn - bước 06 và 15 tự bỏ qua TabPFN nếu không có (cần HF_TOKEN để tải trọng số):
+# tabpfn
+# chỉ cần khi thu thập dữ liệu (bước 00-02):
+# requests
+# beautifulsoup4

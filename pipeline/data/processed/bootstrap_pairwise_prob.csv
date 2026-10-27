@@ -1,0 +1,6 @@
+pair,prob,median_diff
+Markowitz > EqualWeight,0.668,0.07661409692
+RiskParity > EqualWeight,0.696,0.05163377782
+HRP > EqualWeight,0.516,0.009976508712
+BlackLitterman > Markowitz,0.357,-0.06093128736
+BlackLitterman > EqualWeight,0.545,0.01137461207

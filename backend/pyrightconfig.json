@@ -1,0 +1,11 @@
+{
+  "venvPath": "..",
+  "venv": ".venv",
+  "extraPaths": ["."],
+  "include": ["app", "tests"],
+  "exclude": ["../.venv", "../node_modules", "../frontend/dist", "../.temp_pipeline_runs", "../results/v20261012-v1", "../results/v20261012-v2"],
+  "pythonVersion": "3.12",
+  "typeCheckingMode": "basic",
+  "reportMissingImports": "error",
+  "reportMissingTypeStubs": "none"
+}

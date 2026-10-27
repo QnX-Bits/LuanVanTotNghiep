@@ -1,0 +1,11 @@
+{
+  "name": "portfoliovn",
+  "private": true,
+  "packageManager": "pnpm@11.25.0",
+  "scripts": {
+    "build": "pnpm --filter @portfolio/frontend build",
+    "typecheck": "pnpm --filter @portfolio/frontend typecheck",
+    "test": "pnpm --filter @portfolio/frontend test",
+    "dev:web": "pnpm --filter @portfolio/frontend dev"
+  }
+}
